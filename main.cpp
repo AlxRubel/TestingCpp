@@ -2,7 +2,7 @@
 
 int main ()
 {
-    std::cout << "Hello, Cpp!" << std::endl;
+    std::cout << "Programming Cpp!" << std::endl;
     std::cout << "Super" << std::endl;
     
     return 0;
